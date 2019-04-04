@@ -2,6 +2,7 @@
 ## Network Structure
 if the loss is binary cross entropy, then structure is like:  
 Discriminator:  
+
 |  			Layer 		                    |  			Kernel 		    |  			Output 		   |
 |----------------------------|-------------|------------|
 |  			X 		                        |  			- 		         |  			3*32*32 		  |
