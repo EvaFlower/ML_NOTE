@@ -32,7 +32,7 @@ Discriminator:
 |  			Conv, LeakyReLU(0.2) 		 |  			[4, 2, 1] 		 |  			128\*8\*8 		  |
 |  			Conv, LeakyReLU(0.2) 		 |  			[4, 2, 1] 		 |  			256\*4\*4 		  |
 |  			Conv 		                     |  			[4, 1, 0] 		 |  			1\*1\*1 		    |
-|  			Wassersteiner distance 		   |  			  			 		        |  			1 		        |
+|  			Wasserstein distance 		   |  			  			 		        |  			1 		        |
 
 Generator:  
 
