@@ -13,6 +13,7 @@ Discriminator:
 |  			CrossEntropyWithLogits 		   |  			  			 		        |  			1 		        |
 
 Generator:  
+
 |  			Layer 		                   |  			Kernel 		    |  			Output 		   |
 |---------------------------|-------------|------------|
 |  			Z 		                       |  			- 		         |  			128*1*1 		  |
