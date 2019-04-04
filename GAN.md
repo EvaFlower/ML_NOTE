@@ -23,6 +23,7 @@ Generator:
   
 if the loss is wasserstainer distance, then structure is:  
 Discriminator:  
+
 |  			Layer 		                    |  			Kernel 		    |  			Output 		   |
 |----------------------------|-------------|------------|
 |  			X 		                        |  			- 		         |  			3*32*32 		  |
@@ -33,6 +34,7 @@ Discriminator:
 |  			CrossEntropyWithLogits 		   |  			  			 		        |  			1 		        |
 
 Generator:  
+
 |  			Layer 		                   |  			Kernel 		    |  			Output 		   |
 |---------------------------|-------------|------------|
 |  			Z 		                       |  			- 		         |  			128*1*1 		  |
