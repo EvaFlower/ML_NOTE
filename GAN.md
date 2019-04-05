@@ -1,6 +1,6 @@
 
 ## Network Structure
-if the loss is binary cross entropy, then structure is like:  
+if the loss is binary cross entropy, then structure is:  
 Discriminator:  
 
 |  			Layer 		                    |  			Kernel 		    |  			Output 		   |
